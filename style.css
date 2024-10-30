@@ -1,0 +1,39 @@
+.hw-skin-hidden{display:none;}
+.hw-skin-preview{margin-top:5px;}
+.hw-skin-preview img{max-width:100%;height:auto;border:1px solid #dadada;padding:4px;background-color:#fff;}
+.hw-skin-list-container .hw-skin-current-thumb{
+	max-width:50px;
+	padding: 2px;
+  border: 2px solid red;
+  background: #fff;
+}
+.hwk-skins-list{
+	max-height:300px;
+	overflow: auto;
+	border:1px solid #C8C2C2;
+	
+}
+.hwk-skins-list .thumb img{
+	max-height:50px;
+}
+.hwk-skins-list .list-skin-files .group{
+	  background: #6F5858;
+  color: #fff;
+  padding: 3px;
+}
+.hwk-skins-list .list-skin-files tr:hover{
+	background:#dadada;
+	
+}
+.hwk-skins-list .list-skin-files .skin label{
+	width: 100%;height:100%;
+  	display: block;
+}
+.hw-skin-current{background:#dadada;}
+/*ddslick*/
+.dd-selected{
+	padding:2px !important;
+}
+.hw-skin-options-notice{color:red;padding:4px;background: #dadada;}
+.hw-skin-options-none input{display: none;}
+.hw-skin-options-none select{display: none;}
